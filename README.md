@@ -71,8 +71,6 @@ I'm currently interested in/excited about:
 
 If you find this useful for your own needs you are welcome to fork a copy, customise it or even give it a star.
 
-**You can [follow me on Twitter](https://twitter.com/Syknapse "@Syknapse") or [get in touch](https://syknapse.github.io/Syk-Houdeib/#contact "My contact section | Portfolio")**
-
 ----
 
 ### Acknowledgments
