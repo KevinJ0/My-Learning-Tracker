@@ -16,7 +16,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**JavaScript**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**ES6**                           | ![done][done]     |               |               |                  |                |                 |
 |**Website Building**              | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Responsive design**             | ![done][done]     |               |               |                  |                |                 |
+|**Responsive design**             | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Progressive Enhancement**       | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Css Grid & Flex-box**           | ![done][done]     |               |               |                  |                |                 |
 |**GitHub**                        | ![done][done]     |               |               |                  |                |                 |
@@ -42,6 +42,8 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![Completed][Completed]     | 2018     | [HTML Tutorial]                                                 | [w3schools.com]                             |
 | ![Completed][Completed]     | 2018     | [CSS Tutorial]                                                  | [w3schools.com]                             |
 | ![Soon][Soon]               |          | [Bootstrap Tutorial]                                            | [w3schools.com]                             |
+| ![Completed][Completed]     | Nov 17 2018 | [Linkedin Fundamentos del desarrollo web full stack o front end] | [linkedin.com/learning]                             |
+| ![Completed][Completed]     | Dec 1 2018 | [Linkedin Desarrollo web front end esencial]                  | [linkedin.com/learning]                             |
 
 [//]: # (Reference links to courses)
 
@@ -49,11 +51,11 @@ A complete log of my web development skills, learning, resources, highlights, in
 [HTML Tutorial]: https://www.w3schools.com/HTML/default.asp
 [CSS Tutorial]: https://www.w3schools.com/css/default.asp
 [Bootstrap Tutorial]: https://www.w3schools.com/bootstrap/default.asp
-
+[Linkedin Desarrollo web front end esencial]: https://www.linkedin.com/learning/desarrollo-web-front-end-esencial
 [//]: # (Reference links to tutors)
-
+[Linkedin Fundamentos del desarrollo web full stack o front end]: https://www.linkedin.com/learning/fundamentos-del-desarrollo-web-full-stack-o-front-end
 [w3schools.com]: https://www.w3schools.com/
-
+[linkedin.com/learning]: https://www.linkedin.com/learning/desarrollo-web-front-end-esencial
  
 ----
 
