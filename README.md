@@ -2,10 +2,12 @@
 
 A complete log of my web development skills, learning, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organise, and share my learning.
 
+
 more about me: [Profile Card]
 
-[Profile Card]:https://kevinj0.github.io/Profile-card/
+
 ----
+[Profile Card]: https://kevinj0.github.io/Profile-card/
 
 [done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Done"
 
