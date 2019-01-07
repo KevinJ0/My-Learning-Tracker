@@ -19,7 +19,7 @@ more about me: [Profile Card]
 |**HTML5**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**CSS3**                          | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**JavaScript**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**ES6**                           | ![done][done]     |               |               |                  |                |                 |
+|**ES6**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Website Building**              | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Responsive design**             | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Progressive Enhancement**       | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
