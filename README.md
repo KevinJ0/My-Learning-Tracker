@@ -19,6 +19,8 @@ more about me: [Profile Card]
 |**HTML5**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**CSS3**                          | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**JavaScript**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**JQuery**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**ES5**                           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**ES6**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Website Building**              | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Responsive design**             | ![done][done]     | ![done][done] |               |                  |                |                 |
@@ -49,9 +51,12 @@ more about me: [Profile Card]
 | ![Soon][Soon]               |          | [Bootstrap Tutorial]                                            | [w3schools.com]                             |
 | ![Completed][Completed]     | Nov 17 2018 | [Linkedin Fundamentos del desarrollo web full stack o front end] | [linkedin.com/learning]                             |
 | ![Completed][Completed]     | Dec 1 2018 | [Linkedin Desarrollo web front end esencial]                  | [linkedin.com/learning]                             |
+| ![Completed][Completed]     | Ene 10 2019 | [JQuery Tutorial]                                               | [w3schools.com]                             |
+
 
 [//]: # (Reference links to courses)
 
+[JQuery Tutorial]: https://www.w3schools.com/jQuery/default.asp
 [JavaScript Tutorial]: https://www.w3schools.com/js/default.asp
 [HTML Tutorial]: https://www.w3schools.com/HTML/default.asp
 [CSS Tutorial]: https://www.w3schools.com/css/default.asp
