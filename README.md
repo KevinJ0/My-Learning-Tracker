@@ -3,11 +3,11 @@
 A complete log of my web development skills, learning, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organise, and share my learning.
 
 
-more about me: [Profile Card]
+more about me: [Portafolio]
 
 
 ----
-[Profile Card]: https://kevinj0.github.io/Profile-card/
+[Portafolio]: https://kevinj0.github.io/Portafolio/
 
 [done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Done"
 
@@ -26,7 +26,7 @@ more about me: [Profile Card]
 |**Responsive design**             | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Progressive Enhancement**       | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Css Grid & Flex-box**           | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**GitHub**                        | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**GitHub**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Java 8**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Git/Git bash**                  | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Command line**                  | ![done][done]     | ![done][done] |               |                  |                |                 |
