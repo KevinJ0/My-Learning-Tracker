@@ -3,7 +3,7 @@
 A complete log of my web development skills, learning, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organise, and share my learning.
 
 
-more about me: [Portafolio]
+More about me: [Portafolio]
 
 
 ----
@@ -31,7 +31,7 @@ more about me: [Portafolio]
 |**Git/Git bash**                  | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Command line**                  | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Markdown**                      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**MySql**                         | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**MySql**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 
 ----
 
@@ -45,13 +45,14 @@ more about me: [Portafolio]
 
 |            Status           |   Year   | Course                                                          |                Tutor                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![Completed][Completed]     | 2018     | [JavaScript Tutorial]                                           | [w3schools.com]                             |
-| ![Completed][Completed]     | 2018     | [HTML Tutorial]                                                 | [w3schools.com]                             |
-| ![Completed][Completed]     | 2018     | [CSS Tutorial]                                                  | [w3schools.com]                             |
+| ![Completed][Completed]     | Sep 2018   | [JavaScript Tutorial]                                           | [w3schools.com]                             |
+| ![Completed][Completed]     | Mar 2018   | [HTML Tutorial]                                                 | [w3schools.com]                             |
+| ![Completed][Completed]     | Jul 2018   | [CSS Tutorial]                                                  | [w3schools.com]                             |
 | ![Soon][Soon]               |          | [Bootstrap Tutorial]                                            | [w3schools.com]                             |
 | ![Completed][Completed]     | Nov 17 2018 | [Linkedin Fundamentos del desarrollo web full stack o front end] | [linkedin.com/learning]                             |
 | ![Completed][Completed]     | Dec 1 2018 | [Linkedin Desarrollo web front end esencial]                  | [linkedin.com/learning]                             |
-| ![Completed][Completed]     | Ene 10 2019 | [JQuery Tutorial]                                               | [w3schools.com]                             |
+| ![Completed][Completed]     | Ene 10 2019 | [JQuery Tutorial]                                            | [w3schools.com]                             |
+| ![Completed][Completed]     | Mar 2019 | [Introducción a la programación]                             | [www.itla.edu.do]                                  |
 
 
 [//]: # (Reference links to courses)
@@ -66,7 +67,8 @@ more about me: [Portafolio]
 [Linkedin Fundamentos del desarrollo web full stack o front end]: https://www.linkedin.com/learning/fundamentos-del-desarrollo-web-full-stack-o-front-end
 [w3schools.com]: https://www.w3schools.com/
 [linkedin.com/learning]: https://www.linkedin.com/learning/desarrollo-web-front-end-esencial
- 
+[Introducción a la programación]: https://drive.google.com/file/d/1yGI5RVZXMCrUm4OLviC42W-hWCzBhMYA/view?usp=sharing
+[www.itla.edu.do]: https://www.itla.edu.do/
 ----
 
 ## Interests
