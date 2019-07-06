@@ -32,6 +32,7 @@ More about me: [Portafolio]
 |**Command line**                  | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Markdown**                      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**MySql**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**C#**                            | ![done][done]     | ![done][done] |               |                  |                |                 |	
 
 ----
 
@@ -53,6 +54,7 @@ More about me: [Portafolio]
 | ![Completed][Completed]     | Dec 1 2018 | [Linkedin Desarrollo web front end esencial]                  | [linkedin.com/learning]                             |
 | ![Completed][Completed]     | Ene 10 2019 | [JQuery Tutorial]                                            | [w3schools.com]                             |
 | ![Completed][Completed]     | Mar 2019 | [Introducción a la programación]                             | [www.itla.edu.do]                                  |
+| ![Completed][Completed]     | Jul 2019 | [C# Básico]                             | [www.itla.edu.do]                                  |
 
 
 [//]: # (Reference links to courses)
@@ -68,7 +70,9 @@ More about me: [Portafolio]
 [w3schools.com]: https://www.w3schools.com/
 [linkedin.com/learning]: https://www.linkedin.com/learning/desarrollo-web-front-end-esencial
 [Introducción a la programación]: https://drive.google.com/file/d/1yGI5RVZXMCrUm4OLviC42W-hWCzBhMYA/view?usp=sharing
+[C# Básico]: https://drive.google.com/open?id=1vVewcUzovHUkkTE0GMAAt6ShXxnqtxvX
 [www.itla.edu.do]: https://www.itla.edu.do/
+
 ----
 
 ## Interests
