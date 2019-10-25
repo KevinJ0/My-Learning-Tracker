@@ -33,6 +33,7 @@ More about me: [Portafolio]
 |**Markdown**                      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**MySql**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**C#**                            | ![done][done]     | ![done][done] |               |                  |                |                 |	
+|**PHP**                            | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |	
 
 ----
 
@@ -49,13 +50,14 @@ More about me: [Portafolio]
 | ![Completed][Completed]     | Sep 2018   | [JavaScript Tutorial]                                           | [w3schools.com]                             |
 | ![Completed][Completed]     | Mar 2018   | [HTML Tutorial]                                                 | [w3schools.com]                             |
 | ![Completed][Completed]     | Jul 2018   | [CSS Tutorial]                                                  | [w3schools.com]                             |
-| ![Soon][Soon]               |          | [Bootstrap Tutorial]                                            | [w3schools.com]                             |
 | ![Completed][Completed]     | Nov 17 2018 | [Linkedin Fundamentos del desarrollo web full stack o front end] | [linkedin.com/learning]                             |
 | ![Completed][Completed]     | Dec 1 2018 | [Linkedin Desarrollo web front end esencial]                  | [linkedin.com/learning]                             |
 | ![Completed][Completed]     | Ene 10 2019 | [JQuery Tutorial]                                            | [w3schools.com]                             |
 | ![Completed][Completed]     | Mar 2019 | [Introducción a la programación]                             | [www.itla.edu.do]                                  |
-| ![Completed][Completed]     | Jul 2019 | [C# Básico]                             | [www.itla.edu.do]                                  |
-
+| ![Completed][Completed]     | Jul 2019 | [C# Básico]                                      | [www.itla.edu.do]                                    |
+| ![Completed][Completed]     | March 2019 | [Bootstrap Tutorial]                                  | [w3schools.com]                                 | 
+| ![Completed][Completed]     | Sep 2019   | [PHP Tutorial]                                        | [w3schools.com]                                |
+| ![Soon][Soon]               | Dic 2019   | [PHP Básico]                                        | [www.itla.edu.do]                              |
 
 [//]: # (Reference links to courses)
 
@@ -64,6 +66,7 @@ More about me: [Portafolio]
 [HTML Tutorial]: https://www.w3schools.com/HTML/default.asp
 [CSS Tutorial]: https://www.w3schools.com/css/default.asp
 [Bootstrap Tutorial]: https://www.w3schools.com/bootstrap/default.asp
+[PHP Tutorial]: https://www.w3schools.com/php/default.asp
 [Linkedin Desarrollo web front end esencial]: https://www.linkedin.com/learning/desarrollo-web-front-end-esencial
 [//]: # (Reference links to tutors)
 [Linkedin Fundamentos del desarrollo web full stack o front end]: https://www.linkedin.com/learning/fundamentos-del-desarrollo-web-full-stack-o-front-end
@@ -71,6 +74,7 @@ More about me: [Portafolio]
 [linkedin.com/learning]: https://www.linkedin.com/learning/desarrollo-web-front-end-esencial
 [Introducción a la programación]: https://drive.google.com/file/d/1yGI5RVZXMCrUm4OLviC42W-hWCzBhMYA/view?usp=sharing
 [C# Básico]: https://drive.google.com/open?id=1vVewcUzovHUkkTE0GMAAt6ShXxnqtxvX
+[PHP Básico]: https://drive.google.com/open?id=1vVewcUzovHUkkTE0GMAAt6ShXxnqtxvX
 [www.itla.edu.do]: https://www.itla.edu.do/
 
 ----
@@ -80,12 +84,14 @@ More about me: [Portafolio]
 I'm currently interested in/excited about:
 
 + React
-+ Mobile Development
++ Back-end
 + NodeJS
 + Progressive enhancement
 + Angular
-+ Python
-
++ Java
++ JavaScript
++ Design Patterns
++ PHP
 ----
 
 If you find this useful for your own needs you are welcome to fork a copy, customise it or even give it a star.
@@ -98,4 +104,4 @@ This has been partly inspired by [Shovan Chatterjee](https://twitter.com/shovan_
 
 ### License
 
-[MIT License](https://github.com/Syknapse/My-Learning-Tracker/blob/master/LICENSE)
+[MIT License](https://github.com/Syknapse/My-Learning-Tracker/blob/master/LICENSE) 
