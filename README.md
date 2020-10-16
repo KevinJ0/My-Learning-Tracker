@@ -16,7 +16,7 @@ More about me: [Portafolio]
  
 |               Skill              | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
 |:--------------------------------:|:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
-|**C# ( ASP.Net Core)**            | ![done][done]     | ![done][done] |               |                  |                |                 |	
+|**C# (ASP.Net Core)**             | ![done][done]     | ![done][done] |               |                  |                |                 |	
 |**Angular**                       | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |	
 |**HTML5**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**CSS3**                          | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
@@ -74,7 +74,7 @@ More about me: [Portafolio]
 [w3schools.com]: https://www.w3schools.com/
 [linkedin.com/learning]: https://www.linkedin.com/learning/desarrollo-web-front-end-esencial
 [Introducción a la programación]: https://drive.google.com/file/d/1yGI5RVZXMCrUm4OLviC42W-hWCzBhMYA/view?usp=sharing
-[C# Básico]: https://drive.google.com/open?id=1vVewcUzovHUkkTE0GMAAt6ShXxnqtxvX
+[C# .Net Básico]: https://drive.google.com/open?id=1vVewcUzovHUkkTE0GMAAt6ShXxnqtxvX
 [PHP Básico]: https://drive.google.com/open?id=1vVewcUzovHUkkTE0GMAAt6ShXxnqtxvX
 [www.itla.edu.do]: https://www.itla.edu.do/
 [C#.Net Intermedio]: https://drive.google.com/file/d/1CTa-OlhXby7p_wdor8u6LP8BKWtrPTJV/view
