@@ -16,24 +16,23 @@ More about me: [Portafolio]
  
 |               Skill              | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
 |:--------------------------------:|:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
+|**C# ( ASP.Net Core)**            | ![done][done]     | ![done][done] |               |                  |                |                 |	
+|**Angular**                       | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |	
 |**HTML5**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**CSS3**                          | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**JavaScript**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**PHP**                           | ![done][done]     |               |               |                  |                |                 |	
 |**JQuery**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**ES5**                           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**ES6**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Website Building**              | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Responsive design**             | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Progressive Enhancement**       | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
+|**Progressive Enhancement**       | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Css Grid & Flex-box**           | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**GitHub**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Java 8**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Git/Git bash**                  | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**Git/Git bash**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Command line**                  | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Markdown**                      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**MySql**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**C#**                            | ![done][done]     | ![done][done] |               |                  |                |                 |	
-|**PHP**                            | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |	
 
 ----
 
@@ -47,17 +46,19 @@ More about me: [Portafolio]
 
 |            Status           |   Year   | Course                                                          |                Tutor                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![Completed][Completed]     | Sep 2018   | [JavaScript Tutorial]                                           | [w3schools.com]                             |
-| ![Completed][Completed]     | Mar 2018   | [HTML Tutorial]                                                 | [w3schools.com]                             |
-| ![Completed][Completed]     | Jul 2018   | [CSS Tutorial]                                                  | [w3schools.com]                             |
-| ![Completed][Completed]     | Nov 17 2018 | [Linkedin Fundamentos del desarrollo web full stack o front end] | [linkedin.com/learning]                             |
-| ![Completed][Completed]     | Dec 1 2018 | [Linkedin Desarrollo web front end esencial]                  | [linkedin.com/learning]                             |
-| ![Completed][Completed]     | Ene 10 2019 | [JQuery Tutorial]                                            | [w3schools.com]                             |
+| ![Completed][Completed]     | Sep 2018   | [JavaScript Tutorial]                                           | [w3schools.com]                          |
+| ![Completed][Completed]     | Mar 2018   | [HTML Tutorial]                                                 | [w3schools.com]                          |
+| ![Completed][Completed]     | Jul 2018   | [CSS Tutorial]                                                  | [w3schools.com]                          |
+| ![Completed][Completed]     | Nov 17 2018 | [Linkedin Fundamentos del desarrollo web full stack o front end] | [linkedin.com/learning]                |
+| ![Completed][Completed]     | Dec 1 2018 | [Linkedin Desarrollo web front end esencial]                  | [linkedin.com/learning]                    |
+| ![Completed][Completed]     | Ene 10 2019 | [JQuery Tutorial]                                            | [w3schools.com]                            |
 | ![Completed][Completed]     | Mar 2019 | [Introducción a la programación]                             | [www.itla.edu.do]                                  |
-| ![Completed][Completed]     | Jul 2019 | [C# Básico]                                      | [www.itla.edu.do]                                    |
+| ![Completed][Completed]     | Jul 2019 | [C# Básico]                                         | [www.itla.edu.do]                                    |
 | ![Completed][Completed]     | March 2019 | [Bootstrap Tutorial]                                  | [w3schools.com]                                 | 
 | ![Completed][Completed]     | Sep 2019   | [PHP Tutorial]                                        | [w3schools.com]                                |
-| ![Soon][Soon]               | Dic 2019   | [PHP Básico]                                        | [www.itla.edu.do]                              |
+| ![Completed][Completed]     | Dic 2019   | [PHP Básico]                                        | [www.itla.edu.do]                          |
+| ![Completed][Completed]     | Ene 2020   | [C#.Net Intermedio]                                | [www.itla.edu.do]                                       |
+| ![Completed][Completed]     | Mayo 2020  | [Angular]                                        | [www.itla.edu.do]                        |
 
 [//]: # (Reference links to courses)
 
@@ -76,6 +77,9 @@ More about me: [Portafolio]
 [C# Básico]: https://drive.google.com/open?id=1vVewcUzovHUkkTE0GMAAt6ShXxnqtxvX
 [PHP Básico]: https://drive.google.com/open?id=1vVewcUzovHUkkTE0GMAAt6ShXxnqtxvX
 [www.itla.edu.do]: https://www.itla.edu.do/
+[C#.Net Intermedio]: https://drive.google.com/file/d/1CTa-OlhXby7p_wdor8u6LP8BKWtrPTJV/view
+[Angular]: https://drive.google.com/file/d/1jqxwszbR6ZkgeusF5BwPmb2Dd9zk2jgI/view
+
 
 ----
 
@@ -83,15 +87,12 @@ More about me: [Portafolio]
 
 I'm currently interested in/excited about:
 
-+ React
++ ASP .Net Core
 + Back-end
-+ NodeJS
-+ Progressive enhancement
 + Angular
-+ Java
++ Progressive enhancement
 + JavaScript
 + Design Patterns
-+ PHP
 ----
 
 If you find this useful for your own needs you are welcome to fork a copy, customise it or even give it a star.
