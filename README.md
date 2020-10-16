@@ -53,7 +53,7 @@ More about me: [Portafolio]
 | ![Completed][Completed]     | Dec 1 2018 | [Linkedin Desarrollo web front end esencial]                  | [linkedin.com/learning]                    |
 | ![Completed][Completed]     | Ene 10 2019 | [JQuery Tutorial]                                            | [w3schools.com]                            |
 | ![Completed][Completed]     | Mar 2019 | [Introducción a la programación]                             | [www.itla.edu.do]                                  |
-| ![Completed][Completed]     | Jul 2019 | [C# Básico]                                         | [www.itla.edu.do]                                    |
+| ![Completed][Completed]     | Jul 2019 | [C# .Net Básico]                                         | [www.itla.edu.do]                                    |
 | ![Completed][Completed]     | March 2019 | [Bootstrap Tutorial]                                  | [w3schools.com]                                 | 
 | ![Completed][Completed]     | Sep 2019   | [PHP Tutorial]                                        | [w3schools.com]                                |
 | ![Completed][Completed]     | Dic 2019   | [PHP Básico]                                        | [www.itla.edu.do]                          |
