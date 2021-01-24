@@ -16,23 +16,21 @@ More about me: [Portafolio]
  
 |               Skill              | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
 |:--------------------------------:|:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
-|**C# (ASP.Net Core)**             | ![done][done]     | ![done][done] |               |                  |                |                 |	
+|**C# (ASP.Net Core)**             | ![done][done]     | ![done][done] | ![done][done] |  ![done][done]   |                |                 |	
 |**Angular**                       | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |	
-|**HTML5**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**HTML5**                         | ![done][done]     | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  |                 |
 |**CSS3**                          | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**JavaScript**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**PHP**                           | ![done][done]     |               |               |                  |                |                 |	
 |**JQuery**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Website Building**              | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Responsive design**             | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Progressive Enhancement**       | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Css Grid & Flex-box**           | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**GitHub**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Java 8**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Git/Git bash**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Command line**                  | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Markdown**                      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**MySql**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**MSSql**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 
 ----
 
@@ -90,8 +88,7 @@ I'm currently interested in/excited about:
 + ASP .Net Core
 + Back-end
 + Angular
-+ Progressive enhancement
-+ JavaScript
++ JavaScript / Typescript
 + Design Patterns
 ----
 
