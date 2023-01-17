@@ -16,6 +16,7 @@ More about me: [Portafolio]
  
 |               Skill              | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
 |:--------------------------------:|:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
+|**Inglés**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |	
 |**C# (ASP.Net Core)**             | ![done][done]     | ![done][done] | ![done][done] |  ![done][done]   |                |                 |	
 |**Angular**                       | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |	
 |**HTML5**                         | ![done][done]     | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  |                 |
@@ -57,9 +58,11 @@ More about me: [Portafolio]
 | ![Completed][Completed]     | Dic 2019   | [PHP Básico]                                        | [www.itla.edu.do]                          |
 | ![Completed][Completed]     | Ene 2020   | [C#.Net Intermedio]                                | [www.itla.edu.do]                                       |
 | ![Completed][Completed]     | Mayo 2020  | [Angular]                                        | [www.itla.edu.do]                        |
+| ![Completed][Completed]     | Dic 2020 | [Inglés Inmersión]                           | [mescyt.gob.do]  |
 
 [//]: # (Reference links to courses)
 
+[Inglés Inmersión]: https://drive.google.com/file/d/1zTzyKYOIqzntf9_15l0A6mY46a0NpWaW/view?usp=sharing
 [JQuery Tutorial]: https://www.w3schools.com/jQuery/default.asp
 [JavaScript Tutorial]: https://www.w3schools.com/js/default.asp
 [HTML Tutorial]: https://www.w3schools.com/HTML/default.asp
@@ -71,13 +74,13 @@ More about me: [Portafolio]
 [Linkedin Fundamentos del desarrollo web full stack o front end]: https://www.linkedin.com/learning/fundamentos-del-desarrollo-web-full-stack-o-front-end
 [w3schools.com]: https://www.w3schools.com/
 [linkedin.com/learning]: https://www.linkedin.com/learning/desarrollo-web-front-end-esencial
+[mescyt.gob.do]: https://mescyt.gob.do/programas/ingles-de-inmersion/
 [Introducción a la programación]: https://drive.google.com/file/d/1yGI5RVZXMCrUm4OLviC42W-hWCzBhMYA/view?usp=sharing
 [C# .Net Básico]: https://drive.google.com/open?id=1vVewcUzovHUkkTE0GMAAt6ShXxnqtxvX
 [PHP Básico]: https://drive.google.com/open?id=1vVewcUzovHUkkTE0GMAAt6ShXxnqtxvX
 [www.itla.edu.do]: https://www.itla.edu.do/
 [C#.Net Intermedio]: https://drive.google.com/file/d/1CTa-OlhXby7p_wdor8u6LP8BKWtrPTJV/view
 [Angular]: https://drive.google.com/file/d/1jqxwszbR6ZkgeusF5BwPmb2Dd9zk2jgI/view
-
 
 ----
 
