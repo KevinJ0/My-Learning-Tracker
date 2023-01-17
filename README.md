@@ -10,7 +10,6 @@ More about me: [Portafolio]
 [Portafolio]: https://kevinj0.github.io/Portafolio/
 
 [done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "done"
-[process]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "process"
 
 ## Skills
 
@@ -34,7 +33,7 @@ More about me: [Portafolio]
 |**MySql**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**SqlServer**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Oracle DB**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Flutter**                       | ![process][process] |               |               |                  |                |                 |
+|**Flutter**                       | ![done][done]     |               |               |                  |                |                 |
 
 ----
 
@@ -59,12 +58,12 @@ More about me: [Portafolio]
 | ![Completed][Completed]     | March 2019 | [Bootstrap Tutorial]                                  | [w3schools.com]                                 | 
 | ![Completed][Completed]     | Sep 2019   | [PHP Tutorial]                                        | [w3schools.com]                                |
 | ![Completed][Completed]     | Dic 2019   | [PHP Básico]                                        | [www.itla.edu.do]                          |
-| ![Completed][Completed]     | Ene 2020   | [C#.Net Intermedio]                                | [www.itla.edu.do]                                       |
-| ![Completed][Completed]     | Mayo 2020  | [Angular]                                        | [www.itla.edu.do]                        |
-| ![Completed][Completed]     | Dic 2020   | [Inglés Inmersión]                           | [mescyt.gob.do]  |
-| ![Processing][Processing]   |            | [Flutter]                           | [udemy.com]  |
+| ![Completed][Completed]     | Ene 2020   | [C#.Net Intermedio]                                         | [www.itla.edu.do]                            |
+| ![Completed][Completed]     | Mayo 2020  | [Angular]                                                 | [www.itla.edu.do]                        |
+| ![Completed][Completed]     | Dic 2020   | [Inglés Inmersión]                                       | [mescyt.gob.do]  |
+| ![In Progress][In Progress] |            |  Flutter                                                 | [udemy.com]  |
 
-[//]: # (Reference links to courses)
+[//]: # (Reference links to courses and tutors)
 
 [Inglés Inmersión]: https://drive.google.com/file/d/1zTzyKYOIqzntf9_15l0A6mY46a0NpWaW/view?usp=sharing
 [JQuery Tutorial]: https://www.w3schools.com/jQuery/default.asp
@@ -74,7 +73,6 @@ More about me: [Portafolio]
 [Bootstrap Tutorial]: https://www.w3schools.com/bootstrap/default.asp
 [PHP Tutorial]: https://www.w3schools.com/php/default.asp
 [Linkedin Desarrollo web front end esencial]: https://www.linkedin.com/learning/desarrollo-web-front-end-esencial
-[//]: # (Reference links to tutors)
 [Linkedin Fundamentos del desarrollo web full stack o front end]: https://www.linkedin.com/learning/fundamentos-del-desarrollo-web-full-stack-o-front-end
 [w3schools.com]: https://www.w3schools.com/
 [linkedin.com/learning]: https://www.linkedin.com/learning/desarrollo-web-front-end-esencial
@@ -85,8 +83,8 @@ More about me: [Portafolio]
 [www.itla.edu.do]: https://www.itla.edu.do/
 [C#.Net Intermedio]: https://drive.google.com/file/d/1CTa-OlhXby7p_wdor8u6LP8BKWtrPTJV/view
 [Angular]: https://drive.google.com/file/d/1jqxwszbR6ZkgeusF5BwPmb2Dd9zk2jgI/view
-[Flutter]: 
 [udemy.com]: https://www.udemy.com/course/flutter-ios-android-fernando-herrera/
+
 ----
 
 ## Interests
