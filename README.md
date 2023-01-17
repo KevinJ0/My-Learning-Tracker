@@ -9,7 +9,8 @@ More about me: [Portafolio]
 ----
 [Portafolio]: https://kevinj0.github.io/Portafolio/
 
-[done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Done"
+[done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "done"
+[process]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "process"
 
 ## Skills
 
@@ -24,14 +25,16 @@ More about me: [Portafolio]
 |**JavaScript**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**JQuery**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Website Building**              | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Responsive design**             | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Css Grid & Flex-box**           | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**Responsive design**             | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Css Grid & Flex-box**           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Java 8**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Git/Git bash**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Command line**                  | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Markdown**                      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**MySql**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**MSSql**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**SqlServer**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Oracle DB**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Flutter**                       | ![process][process] |               |               |                  |                |                 |
 
 ----
 
@@ -58,7 +61,8 @@ More about me: [Portafolio]
 | ![Completed][Completed]     | Dic 2019   | [PHP Básico]                                        | [www.itla.edu.do]                          |
 | ![Completed][Completed]     | Ene 2020   | [C#.Net Intermedio]                                | [www.itla.edu.do]                                       |
 | ![Completed][Completed]     | Mayo 2020  | [Angular]                                        | [www.itla.edu.do]                        |
-| ![Completed][Completed]     | Dic 2020 | [Inglés Inmersión]                           | [mescyt.gob.do]  |
+| ![Completed][Completed]     | Dic 2020   | [Inglés Inmersión]                           | [mescyt.gob.do]  |
+| ![Processing][Processing]   |            | [Flutter]                           | [udemy.com]  |
 
 [//]: # (Reference links to courses)
 
@@ -81,7 +85,8 @@ More about me: [Portafolio]
 [www.itla.edu.do]: https://www.itla.edu.do/
 [C#.Net Intermedio]: https://drive.google.com/file/d/1CTa-OlhXby7p_wdor8u6LP8BKWtrPTJV/view
 [Angular]: https://drive.google.com/file/d/1jqxwszbR6ZkgeusF5BwPmb2Dd9zk2jgI/view
-
+[Flutter]: 
+[udemy.com]: https://www.udemy.com/course/flutter-ios-android-fernando-herrera/
 ----
 
 ## Interests
