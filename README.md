@@ -33,7 +33,7 @@ More about me: [Portafolio]
 |**MySql**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**SqlServer**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Oracle DB**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Flutter**                       | ![done][done]     |               |               |                  |                |                 |
+|**Flutter**                       | ![done][done]     | ![done][done] |               |                  |                |                 |
 
 ----
 
