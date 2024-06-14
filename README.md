@@ -16,7 +16,7 @@ More about me: [Portafolio]
  
 |               Skill              | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
 |:--------------------------------:|:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
-|**Inglés**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |	
+|**Inglés**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |	
 |**C# (ASP.Net Core)**             | ![done][done]     | ![done][done] | ![done][done] |  ![done][done]   |                |                 |	
 |**Angular**                       | ![done][done]     | ![done][done] | ![done][done] |  ![done][done]   |                |                 |	
 |**HTML5**                         | ![done][done]     | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  |                 |
@@ -61,7 +61,7 @@ More about me: [Portafolio]
 | ![Completed][Completed]     | Ene 2020   | [C#.Net Intermedio]                                         | [www.itla.edu.do]                            |
 | ![Completed][Completed]     | Mayo 2020  | [Angular]                                                 | [www.itla.edu.do]                        |
 | ![Completed][Completed]     | Dic 2020   | [Inglés Inmersión]                                       | [mescyt.gob.do]  |
-| ![In Progress][In Progress] |            | [Flutter]                                                 | [udemy.com]  |
+| ![Completed][Completed]     | Oct 2023   | [Flutter]                                                 | [udemy.com]  |
 
 [//]: # (Reference links to courses and tutors)
 
