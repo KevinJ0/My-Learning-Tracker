@@ -18,7 +18,7 @@ More about me: [Portafolio]
 |:--------------------------------:|:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
 |**Inglés**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |	
 |**C# (ASP.Net Core)**             | ![done][done]     | ![done][done] | ![done][done] |  ![done][done]   |                |                 |	
-|**Angular**                       | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |	
+|**Angular**                       | ![done][done]     | ![done][done] | ![done][done] |  ![done][done]   |                |                 |	
 |**HTML5**                         | ![done][done]     | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  |                 |
 |**CSS3**                          | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**JavaScript**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
@@ -32,8 +32,8 @@ More about me: [Portafolio]
 |**Markdown**                      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**MySql**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**SqlServer**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Oracle DB**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Flutter**                       | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**Oracle DB**                     | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
+|**Flutter**                       | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 
 ----
 
