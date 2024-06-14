@@ -61,7 +61,7 @@ More about me: [Portafolio]
 | ![Completed][Completed]     | Ene 2020   | [C#.Net Intermedio]                                         | [www.itla.edu.do]                            |
 | ![Completed][Completed]     | Mayo 2020  | [Angular]                                                 | [www.itla.edu.do]                        |
 | ![Completed][Completed]     | Dic 2020   | [Inglés Inmersión]                                       | [mescyt.gob.do]  |
-| ![In Progress][In Progress] |            |  Flutter                                                 | [udemy.com]  |
+| ![In Progress][In Progress] |            | [Flutter]                                                 | [udemy.com]  |
 
 [//]: # (Reference links to courses and tutors)
 
@@ -84,6 +84,7 @@ More about me: [Portafolio]
 [C#.Net Intermedio]: https://drive.google.com/file/d/1CTa-OlhXby7p_wdor8u6LP8BKWtrPTJV/view
 [Angular]: https://drive.google.com/file/d/1jqxwszbR6ZkgeusF5BwPmb2Dd9zk2jgI/view
 [udemy.com]: https://www.udemy.com/course/flutter-ios-android-fernando-herrera/
+[Flutter]: https://udemy-certificate.s3.amazonaws.com/image/UC-20054600-e9b6-4577-bcfb-3d6eccfef835.jpg?v=1697811580000
 
 ----
 
