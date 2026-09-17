@@ -16,14 +16,14 @@ More about me: [Portafolio]
  
 |               Skill              | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
 |:--------------------------------:|:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
-|**Inglés**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |	
+|**Inglés**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |	
 |**C# (ASP.Net Core)**             | ![done][done]     | ![done][done] | ![done][done] |  ![done][done]   |                |                 |	
-|**Angular**                       | ![done][done]     | ![done][done] | ![done][done] |  ![done][done]   |                |                 |	
+|**Angular**                       | ![done][done]     | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  |                 |	
 |**HTML5**                         | ![done][done]     | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  |                 |
 |**CSS3**                          | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**JavaScript**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**JQuery**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Website Building**              | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**Website Building**              | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Responsive design**             | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Css Grid & Flex-box**           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Java 8**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
@@ -33,7 +33,7 @@ More about me: [Portafolio]
 |**MySql**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**SqlServer**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Oracle DB**                     | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Flutter**                       | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Flutter**                       | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 
 ----
 
@@ -53,15 +53,16 @@ More about me: [Portafolio]
 | ![Completed][Completed]     | Nov 17 2018 | [Linkedin Fundamentos del desarrollo web full stack o front end] | [linkedin.com/learning]                |
 | ![Completed][Completed]     | Dec 1 2018 | [Linkedin Desarrollo web front end esencial]                  | [linkedin.com/learning]                    |
 | ![Completed][Completed]     | Ene 10 2019 | [JQuery Tutorial]                                            | [w3schools.com]                            |
-| ![Completed][Completed]     | Mar 2019 | [Introducción a la programación]                             | [www.itla.edu.do]                                  |
-| ![Completed][Completed]     | Jul 2019 | [C# .Net Básico]                                         | [www.itla.edu.do]                                    |
-| ![Completed][Completed]     | March 2019 | [Bootstrap Tutorial]                                  | [w3schools.com]                                 | 
-| ![Completed][Completed]     | Sep 2019   | [PHP Tutorial]                                        | [w3schools.com]                                |
-| ![Completed][Completed]     | Dic 2019   | [PHP Básico]                                        | [www.itla.edu.do]                          |
+| ![Completed][Completed]     | Mar 2019 | [Introducción a la programación]                             | [www.itla.edu.do]                             |
+| ![Completed][Completed]     | Jul 2019 | [C# .Net Básico]                                         | [www.itla.edu.do]                                 |
+| ![Completed][Completed]     | March 2019 | [Bootstrap Tutorial]                                  | [w3schools.com]                                    | 
+| ![Completed][Completed]     | Sep 2019   | [PHP Tutorial]                                        | [w3schools.com]                                    |
+| ![Completed][Completed]     | Dic 2019   | [PHP Básico]                                        | [www.itla.edu.do]                                    |
 | ![Completed][Completed]     | Ene 2020   | [C#.Net Intermedio]                                         | [www.itla.edu.do]                            |
-| ![Completed][Completed]     | Mayo 2020  | [Angular]                                                 | [www.itla.edu.do]                        |
+| ![Completed][Completed]     | Mayo 2020  | [Angular]                                                 | [www.itla.edu.do]                              |
 | ![Completed][Completed]     | Dic 2020   | [Inglés Inmersión]                                       | [mescyt.gob.do]  |
 | ![Completed][Completed]     | Oct 2023   | [Flutter]                                                 | [udemy.com]  |
+| ![Completed][Completed]     | May 2026   | [Coursera]                                                 | [udemy.com]  |
 
 [//]: # (Reference links to courses and tutors)
 
@@ -85,7 +86,7 @@ More about me: [Portafolio]
 [Angular]: https://drive.google.com/file/d/1jqxwszbR6ZkgeusF5BwPmb2Dd9zk2jgI/view
 [udemy.com]: https://www.udemy.com/course/flutter-ios-android-fernando-herrera/
 [Flutter]: https://udemy-certificate.s3.amazonaws.com/image/UC-20054600-e9b6-4577-bcfb-3d6eccfef835.jpg?v=1697811580000
-
+[Coursera]: https://drive.google.com/file/d/1iAUjeYm4N67krmgYzvRIsaAVMhwcPeeA/view?usp=sharing
 ----
 
 ## Interests
