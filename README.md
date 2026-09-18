@@ -62,7 +62,7 @@ More about me: [Portafolio]
 | ![Completed][Completed]     | Mayo 2020  | [Angular]                                                 | [www.itla.edu.do]                              |
 | ![Completed][Completed]     | Dic 2020   | [Inglés Inmersión]                                       | [mescyt.gob.do]  |
 | ![Completed][Completed]     | Oct 2023   | [Flutter]                                                 | [udemy.com]  |
-| ![Completed][Completed]     | May 2026   | [Coursera]                                                 | [udemy.com]  |
+| ![Completed][Completed]     | May 2026   | [Microsoft Back-End Developer]                                                 | [Coursera.com]  |
 
 [//]: # (Reference links to courses and tutors)
 
