@@ -62,7 +62,7 @@ More about me: [Portafolio]
 | ![Completed][Completed]     | Mayo 2020  | [Angular]                                                 | [www.itla.edu.do]                              |
 | ![Completed][Completed]     | Dic 2020   | [Inglés Inmersión]                                       | [mescyt.gob.do]  |
 | ![Completed][Completed]     | Oct 2023   | [Flutter]                                                 | [udemy.com]  |
-| ![Completed][Completed]     | May 2026   | [Microsoft Back-End Developer]                                                 | [Coursera]  |
+| ![Completed][Completed]     | May 2026   | [Microsoft Back-End Developer]                                                 | [coursera.com]  |
 
 [//]: # (Reference links to courses and tutors)
 
@@ -86,7 +86,7 @@ More about me: [Portafolio]
 [Angular]: https://drive.google.com/file/d/1jqxwszbR6ZkgeusF5BwPmb2Dd9zk2jgI/view
 [udemy.com]: https://www.udemy.com/course/flutter-ios-android-fernando-herrera/
 [Flutter]: https://udemy-certificate.s3.amazonaws.com/image/UC-20054600-e9b6-4577-bcfb-3d6eccfef835.jpg?v=1697811580000
-[Coursera]: https://drive.google.com/file/d/1iAUjeYm4N67krmgYzvRIsaAVMhwcPeeA/view?usp=sharing
+[coursera.com]: https://drive.google.com/file/d/1iAUjeYm4N67krmgYzvRIsaAVMhwcPeeA/view?usp=sharing
 ----
 
 ## Interests
